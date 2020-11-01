@@ -1,6 +1,5 @@
 # rx_login
 
-A new Flutter project.
 Demo
 ![gif](https://user-images.githubusercontent.com/39412713/97795905-74ea6300-1c3e-11eb-91db-77a82fabd8e3.gif)
 
